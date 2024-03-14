@@ -1,0 +1,46 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 550;
+}
+
+.playlist {
+  max-width: 800px;
+  margin: auto;
+  background: radial-gradient(circle, #c9ffd7, #1a8a65, #85e685);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
+.song, .podcast {
+  background: #1f5d58;
+  border: 1px solid #333;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.song h2, .podcast h2 {
+  color: #ffffff;
+  font-size: 12px;
+}
+
+.song p, .podcast p {
+  margin: 0 0;
+  color: #b3b3b3;
+}
+
+.header {
+  color: #1db954;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+
+.song:hover, .podcast:hover {
+  background-color: #235644;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/INFO655/react-playlist/static/css/main.8f530957.chunk.css",
+    "main.js": "/INFO655/react-playlist/static/js/main.60795281.chunk.js",
+    "main.js.map": "/INFO655/react-playlist/static/js/main.60795281.chunk.js.map",
+    "runtime-main.js": "/INFO655/react-playlist/static/js/runtime-main.49cef27f.js",
+    "runtime-main.js.map": "/INFO655/react-playlist/static/js/runtime-main.49cef27f.js.map",
+    "static/js/2.7bd8efa2.chunk.js": "/INFO655/react-playlist/static/js/2.7bd8efa2.chunk.js",
+    "static/js/2.7bd8efa2.chunk.js.map": "/INFO655/react-playlist/static/js/2.7bd8efa2.chunk.js.map",
+    "static/js/3.7fa99968.chunk.js": "/INFO655/react-playlist/static/js/3.7fa99968.chunk.js",
+    "static/js/3.7fa99968.chunk.js.map": "/INFO655/react-playlist/static/js/3.7fa99968.chunk.js.map",
+    "index.html": "/INFO655/react-playlist/index.html",
+    "precache-manifest.0e3d5d66acc8243c1a1193b86c311d28.js": "/INFO655/react-playlist/precache-manifest.0e3d5d66acc8243c1a1193b86c311d28.js",
+    "service-worker.js": "/INFO655/react-playlist/service-worker.js",
+    "static/css/main.8f530957.chunk.css.map": "/INFO655/react-playlist/static/css/main.8f530957.chunk.css.map",
+    "static/js/2.7bd8efa2.chunk.js.LICENSE.txt": "/INFO655/react-playlist/static/js/2.7bd8efa2.chunk.js.LICENSE.txt",
+    "static/media/GreenGuitarLogo.png": "/INFO655/react-playlist/static/media/GreenGuitarLogo.152cd78f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49cef27f.js",
+    "static/js/2.7bd8efa2.chunk.js",
+    "static/css/main.8f530957.chunk.css",
+    "static/js/main.60795281.chunk.js"
+  ]
+}
