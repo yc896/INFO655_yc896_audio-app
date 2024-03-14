@@ -1,0 +1,59 @@
+body {
+  background-color: #ffffff;
+  color: #f3f3f3; 
+  font-family: 'Montserrat', sans-serif;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background: radial-gradient(circle, #c2f8c2, #ace5be, #e1e1e1);
+}
+
+
+
+.logo {
+  width: 52px;
+  margin: 0 auto; /* llogo */
+  display: block; 
+  margin-bottom: 10px;
+}
+
+.controls { /* button style */
+  display: flex;
+  justify-content: center; 
+  gap: 10px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+
+.status-tab {
+background: radial-gradient(circle, #7fe79b, #b1edab, #85e685);
+color: rgb(83, 80, 80);
+padding: 2px;
+text-align: center;
+margin: 10px auto; 
+border-radius: 8px;
+border: 1px solid #5fc384;
+width: 300px; 
+}
+
+.controls button {
+  padding: 7px 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+  font-size: 12px;
+  cursor: pointer;
+  background-color: #f3f3f3;
+  color: rgb(0, 0, 0);
+  border: 1px solid #c9c1c1;
+  border-radius: 8px;
+  max-width: 100px;
+  transition: background-color 0.3s ease;
+}
+
+.controls button:hover {
+  background-color: #a7b7bc;
+}
